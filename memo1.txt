@@ -3,3 +3,4 @@ git commit 연습
 git status 연습
 
 master 쪽에서 수정한 코도비스트
+fix에서 추가한 코도비스트
